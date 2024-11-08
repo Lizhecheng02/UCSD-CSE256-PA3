@@ -14,4 +14,4 @@ All datasets are already in the GitHub repo.
 
 ### Run Codes
 
-Run ``PA3_CSE256.ipynb`` directly (recommend to use GPU like RTX3090).
+Run ``PA3_CSE256.ipynb`` directly (recommend to use GPUs such as RTX3090).
