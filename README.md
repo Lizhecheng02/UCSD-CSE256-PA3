@@ -5,7 +5,7 @@
 All datasets are already in the GitHub repo.
 
 ### Run Codes
-Run ``PA3_CSE256.ipynb`` directly (recommend to use GPUs such as RTX3090).
+Run ``PA3_CSE256.ipynb`` directly. (It is recommended to use GPUs such as the NVIDIA RTX 3090)
 
 ### Tips
 When using a full transformer encoder model like BERT to obtain sentence embeddings, you need to normalize the generated embeddings. This is because pre-trained language models like BERT are not the same as sentence transformer models (e.g., bge, gte), which are specifically trained for calculating cosine similarity and have already been normalized during training and inference.
